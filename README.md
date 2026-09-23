@@ -8,3 +8,5 @@
 W tym momencie struktura modelu użyta w pracy oraz zbiór są załadowane do sesji Google Colab. Model jest gotowy do trenowania, które można wywołać uruchamiając komórki zawierające ```history = final_model.fit()```
 
 Aby przetestować wytrenowany model należy najpierw uruchomić pierwszą komórkę pod nagłówkiem **Testowanie wygenerowanych opinii**, a następnie poniższe komórki zawierające opinie użyte do testów
+
+Projekt udostępniany jest na licencji GNU General Public License v3.0
